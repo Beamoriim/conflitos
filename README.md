@@ -1,1 +1,1 @@
-# conflitos
+# atividade de script
